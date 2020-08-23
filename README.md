@@ -1,4 +1,4 @@
-<img align="left" src="hddrack.jpg" />
+<img align="left" src="https://raw.githubusercontent.com/JackGruber/JackGruber/master/hddrack.jpg" />
 
 ### Languages and Tools:
 
