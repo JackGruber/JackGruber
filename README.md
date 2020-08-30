@@ -21,7 +21,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Own syncserver with Firefox 80](https://jackgruber.github.io/2020-08-29-own-syncserver-with-firefox-80/)
+- [Own syncserver with Firefox 80 (79 on Android)](https://jackgruber.github.io/2020-08-29-own-syncserver-with-firefox-80/)
 - [Docker monitoring](https://jackgruber.github.io/2020-08-15-Docker-monitoring-with-Grafana/)
 - [ESP32 DeepSleep and LoraWAN OTAA join](https://jackgruber.github.io/2020-04-13-ESP32-DeepSleep-and-LoraWAN-OTAA-join/)
 - [Low power Arduino Pro Mini](https://jackgruber.github.io/2019-12-27-Low-power-Arduino-Pro-Mini/)
