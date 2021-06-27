@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Install PIP on Synology NAS](https://jackgruber.github.io/2021-06-27-install-pip-on-synology/)
 - [Embed Mermaid in Jekyll without plugin](https://jackgruber.github.io/2021-05-09-Embed-Mermaid-in-Jekyll-without-plugin/)
 - [From Evernote to Joplin](https://jackgruber.github.io/2020-12-30-From-Evernote-To-Joplin/)
 - [ESP32 battery/solar powerd environmental sensor](https://jackgruber.github.io/2020-12-27-esp32_ttn_environmental_sensor/)
 - [Making an APC Back UPS CS500 smart](https://jackgruber.github.io/2020-10-16-APC-Back-UPS-CS500-smart/)
-- [Own syncserver with Firefox 80 (79 on Android)](https://jackgruber.github.io/2020-08-29-own-syncserver-with-firefox-80/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
